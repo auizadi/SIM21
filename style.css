@@ -1,0 +1,93 @@
+body{
+    overflow: scroll;
+}
+.nav-link:hover{
+    border-bottom: 3px solid #e52525;
+}
+
+.nav-link{
+    font-family: atrox;
+    font-size: 15pt ;
+}
+.nav-item{
+    margin-right: 30px;
+}
+.box{
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e52525;
+    width: 1080px;
+    height: 300px;
+}
+
+.search{
+    margin-top: -35px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 100px;
+    box-shadow: 5px 5px 5px grey;
+
+}
+
+.halal{
+    margin-right: 2px;
+}
+
+.tulisan{
+    font-family: Futura Xblk BT;
+    color: black;
+    margin: 120px 0px 0px 125px;
+    font-style: italic;
+    font-size: 40pt;
+}
+
+.judul{
+    margin-top: 40px;
+}
+
+p {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
+.pentol1{
+    float: left;
+    height: 256px;
+    width: 256px;
+    margin-left: 100px;
+}
+
+.pentol2{
+    float: right;
+    height: 256px;
+    width: 256px;
+    margin-right: 150px;
+    margin-top: 300px;
+}
+
+.p1{
+    position: absolute;
+    margin-top: 300px;
+    margin-right: 350px;
+}
+
+.p12{
+    position: absolute;
+    margin-top: 350px;
+    margin-right: 350px;
+}
+
+.pentol3{
+    float: right;
+    height: 256px;
+    width: 256px;
+    margin-top: 550px;
+    
+}
+

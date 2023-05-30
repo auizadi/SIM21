@@ -1,0 +1,16 @@
+body{
+    overflow: scroll;
+}
+.nav-link:hover{
+    border-bottom: 3px solid #e52525;
+    color: black;
+}
+
+.nav-link{
+    font-family: atrox;
+    font-size: 15pt ;
+    color: grey;
+}
+.nav-item{
+    margin-right: 30px;
+}
